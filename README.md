@@ -1,12 +1,12 @@
 # Node.js - TypeScript
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/node-saas/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/node-typescript.svg)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/node-typescript.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/node-typescript.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/node-typescript.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/node-typescript.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/node-typescript.svg?color=blueviolet)
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/nodejs-typescript/blob/master/LICENSE)
+![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/nodejs-typescript.svg)
+![](https://img.shields.io/github/last-commit/osvaldokalvaitir/nodejs-typescript.svg?color=red)
+![](https://img.shields.io/github/languages/top/osvaldokalvaitir/nodejs-typescript.svg?color=yellow)
+![](https://img.shields.io/github/languages/count/osvaldokalvaitir/nodejs-typescript.svg?color=lightgrey)
+![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/nodejs-typescript.svg)
+![](https://img.shields.io/github/repo-size/osvaldokalvaitir/nodejs-typescript.svg?color=blueviolet)
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
