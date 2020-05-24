@@ -1,4 +1,4 @@
-# Node - TypeScript
+# Node.js - TypeScript
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/node-saas/blob/master/LICENSE)
 ![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/node-typescript.svg)
