@@ -1,8 +1,8 @@
 {
-  "name": "node-typescript",
+  "name": "nodejs-typescript",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/osvaldokalvaitir/node-typescript.git",
+  "repository": "https://github.com/osvaldokalvaitir/nodejs-typescript.git",
   "author": "Osvaldo Kalvaitir Filho <osvaldokalvaitir@outlook.com>",
   "license": "MIT",
   "scripts": {
