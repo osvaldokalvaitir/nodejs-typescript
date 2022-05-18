@@ -1,70 +1,57 @@
-# Node.js - TypeScript
+<h1 align="center">
+    <img src="/.github/assets/logo.png"
+    width="200px"
+    alt="Logo" />
+</h1>
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/nodejs-typescript/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/nodejs-typescript.svg)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/nodejs-typescript.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/nodejs-typescript.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/nodejs-typescript.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/nodejs-typescript.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/nodejs-typescript.svg?color=blueviolet)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+<h3 align="center">
+  Node.js - TypeScript
+</h3>
 
-Aplicação usando Node.js, Express, TypeScript, CORS e ts-node-dev.
+<p align="center">
+  :man: Application using Node.js, Express, TypeScript, CORS and ts-node-dev
+</p>
 
-## Índice
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osvaldokalvaitir/nodejs-typescript.svg?color=00A83A">
 
-- [Desenvolvimento](#desenvolvimento)
+  <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/nodejs-typescript.svg?color=00A83A">
 
-  - [Configuração do Ambiente](#configuração-do-ambiente)
+  <a href="https://kalvaitir.com/">
+    <img alt="Made by Kalvaitir" src="https://img.shields.io/badge/made%20by-Kalvaitir-00A83A">
+  </a>
 
-  - [Instalação do Projeto](#instalação-do-projeto)
-  
-  - [Execução do Projeto](#execução-do-projeto)
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-00A83A">
+</p>
 
-- [Utilizados no Projeto](#utilizados-no-projeto)
+<p align="center">
+  <a href="#wrench-install-and-run">Install and run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#memo-license">License</a>
+</p>
 
-  - [Bibliotecas](#bibliotecas)
-  
-  - [APIs](#apis)
+## :wrench: Install and run
 
-## Desenvolvimento
+Open terminal:
 
-### Configuração do Ambiente
+```sh
+# Clone this repo
+git clone https://github.com/osvaldokalvaitir/nodejs-typescript
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configuração de Ambiente`.
+# Entry in folder
+cd nodejs-typescript
 
-### Instalação do Projeto
+# Install deps with npm or yarn
+npm install | yarn
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
+# Launch the app with npm or yarn
+npm dev:server | yarn dev:server
+```
 
+## :memo: License
 
-### Execução do Projeto
+This project is under the MIT license. See [LICENSE](/LICENSE) for more information.
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/typescript.md) e siga `Execução de Projeto para Desenvolvimento`.
+---
 
-## Utilizados no Projeto
-
-### Bibliotecas
-
-- [@types/cors](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@types-cors.md)
-
-- [@types/express](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@types-express.md)
-
-- [CORS](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/cors.md)
-
-- [Express](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/express.md)
-
-- [ts-node-dev](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/ts-node-dev.md)
-
-- [TypeScript](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/typescript.md)
-
-### APIs
-
-- **Interna**
-
-  - **Rotas**
-
-    - Usuários
-
-      - Lista todos os usuários
+<p align="center">
+Developed with 💚 by <a href="https://www.linkedin.com/in/osvaldokalvaitir">Osvaldo Kalvaitir Filho</a>
+</p>
